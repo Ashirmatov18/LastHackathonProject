@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Alice&family=Russo+One&display=swap');
+
+.cart-item{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+    flex-wrap: wrap;
+    border-bottom: 1px solid;
+    width: 60%
+
+}
+.cart-desc{
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    text-align: center;
+    padding: 30px;
+}
+.cart{
+    padding: 40px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url('https://html5book.ru/wp-content/uploads/2015/07/background39.png');
+    font-family: 'Alice', serif;
+}
+.cart h1{
+    font-family: 'Russo One', sans-serif;
+}
+.total{
+    display: flex;
+    /* flex-wrap: wrap; */
+    justify-content: space-between;
+}
+.zakaz{
+    width: 170px;
+    height: 40px;
+    border: 0;
+    background-color: red;
+    color: white;
+    margin-left: 40px;
+}
+@media all and (max-width: 800px){
+    .cart-item{
+        width: 100%;
+    }
+    .cart-desc{
+        width: 100%;
+        padding: 10px;
+    }
+    .cart{
+        padding: 10px;
+    }
+}

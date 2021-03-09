@@ -1,0 +1,6 @@
+.form-section {
+    margin: 15px;
+}
+.form-section input, select{
+    margin-top: 7px;
+}

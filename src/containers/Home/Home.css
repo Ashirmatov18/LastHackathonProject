@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+.main-block{
+    background: url('https://www.dailymaverick.co.za/wp-content/uploads/Thamm-CTMafia2Bail.jpg') no-repeat;  
+    height: 550px;
+    width:100%;
+    background-size: cover;
+    filter: brightness(85%);    
+    display: flex;
+    justify-content: center;
+    color: white;
+    align-items: center;
+    font-family: 'Abril Fatface', cursive;
+    /* font-size: 90px; */
+    flex-direction: column;
+    /* font-weight: 900; */
+    text-align: center;
+}
+.delivery{
+  background: url('https://assorti.kg/static/shop/img/png/car.png') no-repeat center;
+  width: 50%;
+  height: 400px;
+  background-size: contain;
+}
+.delivery-desc{
+  background: url('https://assorti.kg/static/shop/img/svg/delivery.svg') no-repeat center;
+  width: 50%;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 200px;
+}
+@media all and (max-width: 1100px){
+  .delivery{
+    display: none;
+  }
+  .delivery-desc{
+    display: block;
+    text-align: center;
+    /* margin: 20px; */
+    width: 100%;
+    padding: 0;
+  }
+  .delivery-desc a{
+    margin: 20px;
+  }
+  
+}
+@media all and (max-width: 690px){
+  .delivery{
+    width: 100%;
+    height: 200px;
+  }
+}
+.item-tel{
+  margin-top: 10px;
+  text-decoration: none !important;
+  color: 'black' !important;
+}
+.span{
+    font-family: 'Abril Fatface', cursive;
+    font-size: 90px;
+}
+.btn1 {
+    box-sizing: border-box;
+    -webkit-appearance: none;
+       -moz-appearance: none;
+            appearance: none;
+    background-color: transparent;
+    border: 2px solid #2F4F4F;
+    /* border-radius: 0.6em; */
+    color: #2F4F4F;
+    cursor: pointer;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-align-self: center;
+        -ms-flex-item-align: center;
+            align-self: center;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1;
+    margin: 10px;
+    padding: 1em 2.2em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  }
+  .btn1:hover, .btn:focus {
+    /* color: black; */
+    outline: 0;
+    transition: 2s;
+  }
+
+  .fourth {
+    border-color: black;
+    color: #fff;
+    background-image: -webkit-linear-gradient(45deg, #FFE4E1 50%, transparent 50%);
+    background-image: linear-gradient(45deg, black 50%, transparent 50%);
+    background-position: 100%;
+    background-size: 400%;
+    -webkit-transition: background 4s ease-in-out;
+    transition: background 1s ease-in-out;
+  }
+  .fourth:hover {
+    background-position: 0;
+    transition: 1s;
+    /* border: black; */
+  }
+  .column{
+    font-size: 20px;
+    /* color: white; */
+    /* min-width: 320px */
+  }
+
+  @media all and (max-width: 760px){
+    .column{
+      font-size: 20px;
+      /* color: white; */
+      width: 320px !important
+    }
+  }

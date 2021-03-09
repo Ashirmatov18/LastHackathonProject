@@ -1,0 +1,14 @@
+.carousel1{
+    transition: 3s;
+    height: 100%;
+    object-fit:contain;
+    background-size: cover;
+}
+@media all and (max-width: 600px){
+    .carousel1 h1, h2,h3, p{
+        display: none;
+    }
+    .carousel1{
+        height: 200px;
+    }
+}

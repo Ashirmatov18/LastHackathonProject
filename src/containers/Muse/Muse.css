@@ -1,0 +1,7 @@
+.buttonMus{
+    margin-top: 50px !important;
+    margin-bottom: 50px !important;
+    display: flex !important;
+    max-width: 150px;
+    min-width: 40px;
+}

@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=El+Messiri&display=swap');
+.coffee-page{
+    background: url('https://perambulatingphotographer.files.wordpress.com/2018/03/a-day-in-london-town.jpg') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+    /* margin-top: 30px; */
+}
+.coffee-p1{
+    width: 210px;
+    height: 210px;
+    border-radius: 100%;
+    background: url('') no-repeat;
+    background-size: cover;
+}
+.coffee-desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 400px; */
+    font-family: 'El Messiri', sans-serif;
+    /* margin-top: 30px; */
+    flex-wrap: wrap;
+}
+.coffee-img2{
+    background: url('https://i1.7fon.org/thumb/g764615.jpg') no-repeat center center;
+    width: 500px;
+    height: 470px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.coffee-img3{
+    background: url('https://d1bv4heaa2n05k.cloudfront.net/user-images/1444124382002/shutterstock-59760706small_destinationMain_1444124438669.jpeg') no-repeat center center;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    border-radius: 30px;
+}
+.desc-12{
+    width: 500px;
+    font-size: 25px;
+}
+@media all and (max-width: 500px){
+    .coffee-img2{
+        width: 300px;
+        height: 300px;
+    }
+    .coffee-img3{
+        width: 300px;
+    }
+    .desc-12{
+        width: 300px;
+    }
+}

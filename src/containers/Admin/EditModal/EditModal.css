@@ -1,0 +1,47 @@
+.main-modal{
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    background: rgba(0, 0, 0, .9);
+}
+.inner-modal {
+    width: 400px;
+    height: auto;
+    background-color: white;
+    margin: 150px auto;
+    text-align: center;
+    border-radius: 5px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+  }
+
+.inner-modal input,select{
+    padding: 7px;
+    margin: 10px;
+}
+  
+.close {
+    display: flex;
+    justify-content: space-between;
+}
+.btn{
+    padding: 0;
+    width: 30px;
+    height: 30px;
+    border: 0;
+    border-radius: 4px;
+    text-align: center;
+}
+.btn:hover{
+    background-color: black;
+    color: white;
+}
+.button1{
+    background-color: chartreuse;
+    border: 0;
+    border-radius: 3px;
+    border-color: blue;
+}

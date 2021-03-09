@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat+Alternates&family=Stick&display=swap');
+
+.main-image{
+    background: url('https://wallpaperaccess.com/full/564676.jpg') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+    font-family: 'Stick', sans-serif;
+    margin-bottom: 100px;
+}
+@media all and (max-width: 700px){
+    .main-image{
+        margin-bottom: 30px;
+    }   
+}
+.center-china{
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+    background: url('https://image.freepik.com/free-vector/chinese-food-isolated-flat-cartoon-illustration-icon-isolated-on-white-noodles-box-original-recipe-chopsticks-wok-noodles-chinese-food-logo_92289-504.jpg') no-repeat;
+    background-size: cover;
+    z-index: 3  ;
+    /* position: absolute; */
+    transition: .3s;
+}
+.china-prod h3{
+    text-align: center;
+    font-family: 'Montserrat Alternates', sans-serif;
+    font-weight: 700;
+}
+
+.coffee-p1{
+    width: 210px;
+    height: 210px;
+    border-radius: 100%;
+    background: url('https://image.freepik.com/free-vector/coffee-house-logo_212474-3.jpg') no-repeat;
+    background-size: cover;
+}
+.coffee-desc{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* width: 400px; */
+    font-family: 'El Messiri', sans-serif;
+    /* margin-top: 30px; */
+    flex-wrap: wrap;
+}
+.china-img2{
+    background: url('https://skv.ru/img/_content/china@2x.png') no-repeat center center;
+    width: 570px;
+    height: 500px;
+    background-size: cover;
+    border: radius 30px; ;
+}
+.china-img3{
+    background: url('https://png.pngtree.com/png-clipart/20191027/ourlarge/pngtree-hand-drawn-cute-chinese-lantern-png-image_1885894.jpg') no-repeat center center;
+    width: 500px;
+    height: 500px;
+    background-size: cover;
+    border-radius: 30px;
+}

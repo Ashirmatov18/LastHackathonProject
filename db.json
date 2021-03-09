@@ -1,0 +1,233 @@
+{
+  "teacher": [
+    {
+      "name": "Alexandr",
+      "surname": "Belov",
+      "price": "1000",
+      "image": "https://img.lovepik.com/photo/50102/5220.jpg_wh860.jpg",
+      "rating": "2.5",
+      "imageDetail": "",
+      "age": "25",
+      "stage": "3",
+      "category": "first",
+      "id": 6
+    },
+    {
+      "name": "Maria",
+      "surname": "Sherkulina",
+      "price": "2000",
+      "rating": "3.5",
+      "image": "https://previews.123rf.com/images/stokkete/stokkete1202/stokkete120200149/12577563-portrait-of-a-young-woman-teacher-in-front-of-a-blackboard.jpg",
+      "imageDetail": "",
+      "age": "19",
+      "stage": "1",
+      "category": "second",
+      "id": 7
+    },
+    {
+      "name": "Gulzat",
+      "surname": "Ashimova",
+      "price": "1000",
+      "image": "https://lh3.googleusercontent.com/proxy/u14v2IAjRIFlKAuMaO3INXse4Nd1spfOVxd51VSi_yrGF4Exq4FgKrRSa6ygae6P_fKFIY72HkunimWz4t7ue8LBJOvaYzJFQxZcIgVNVuphSLBBnC2CuZfj2eLS36yB6HjyYE9D2w",
+      "imageDetail": "",
+      "age": "31",
+      "stage": "12",
+      "category": "first",
+      "id": 8
+    },
+    {
+      "name": "Nick",
+      "surname": "Vuicic",
+      "price": "3000",
+      "image": "https://www.gannett-cdn.com/-mm-/e6f5ff966046f4bf939f56e06c17033cdbbc23fc/c=0-229-4500-2771/local/-/media/2017/07/10/USATODAY/USATODAY/636353007248947232-BTS-ELEM-MALE-TEACHERS-1.jpg?width=3200&height=1808&fit=crop&format=pjpg&auto=webp",
+      "imageDetail": "",
+      "age": "51",
+      "stage": "30",
+      "category": "second",
+      "id": 9
+    },
+    {
+      "name": "SimbaBek",
+      "surname": "Belekov",
+      "price": "700",
+      "image": "https://i.pinimg.com/originals/08/49/9e/08499ead23e63a7c3d5aff37a5c1010f.jpg",
+      "imageDetail": "",
+      "age": "18",
+      "stage": "1",
+      "category": "second",
+      "id": 10
+    },
+    {
+      "name": "Nathan",
+      "surname": "Snow",
+      "price": "2000 ",
+      "image": "https://27mi124bz6zg1hqy6n192jkb-wpengine.netdna-ssl.com/wp-content/uploads/2020/05/Top-5-Teaching-Strategies-768x548.jpg",
+      "imageDetail": "",
+      "age": "32",
+      "stage": "14",
+      "category": "first",
+      "id": 11
+    },
+    {
+      "name": "123123",
+      "surname": "123",
+      "price": "123",
+      "image": "123",
+      "imageDetail": "",
+      "age": "12",
+      "stage": "12",
+      "category": "second",
+      "id": 13
+    },
+    {
+      "name": "qweqwe",
+      "surname": "qweqwe",
+      "price": "qweqwe",
+      "image": "",
+      "imageDetail": "qwewe",
+      "age": "qweqwe",
+      "stage": "qweqwe",
+      "category": "first",
+      "id": 14
+    },
+    {
+      "name": "Masha",
+      "surname": "zxcxcz",
+      "price": "1900",
+      "image": "https://previews.123rf.com/images/bbtreesubmission/bbtreesubmission1709/bbtreesubmission170916170/87071948-asian-female-teacher-teaching-a-class.jpg",
+      "imageDetail": "",
+      "age": "28",
+      "stage": "12",
+      "category": "first",
+      "id": 17
+    },
+    {
+      "name": "Dasha",
+      "surname": "qweqwe",
+      "price": "3000",
+      "image": "https://thumbs.dreamstime.com/b/female-teacher-25183851.jpg",
+      "imageDetail": "",
+      "age": "34",
+      "stage": "15",
+      "category": "first",
+      "id": 18
+    },
+    {
+      "name": "SimbaBekasdasd",
+      "surname": "wqeqw21312",
+      "price": "w123",
+      "image": "1",
+      "imageDetail": "123",
+      "age": "123",
+      "stage": "123",
+      "category": "first",
+      "id": 19
+    },
+    {
+      "name": "Irina",
+      "surname": "Masd",
+      "price": "1700",
+      "image": "https://st4.depositphotos.com/13194036/22902/i/600/depositphotos_229024012-stock-photo-female-teacher-sitting-desk-using.jpg",
+      "imageDetail": "",
+      "age": "40",
+      "stage": "22",
+      "category": "first",
+      "id": 20
+    }
+  ],
+  "users": [
+    {
+      "email": "ashirmatov18@gmail.com",
+      "password": "250268",
+      "id": 1,
+      "Admin": true
+    },
+    {
+      "email": "abdurazakov.r@inbox.ru",
+      "password": "11111111",
+      "id": 2
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "123456789",
+      "id": 3
+    },
+    {
+      "email": "qwerty@gmail.com",
+      "password": "123123123",
+      "id": 4
+    },
+    {
+      "email": "admin@mail.ru",
+      "password": "25026888",
+      "id": 5
+    },
+    {
+      "email": "beka@gmail.com",
+      "password": "beka181299",
+      "id": 6
+    },
+    {
+      "email": "beksultan@gmail.com",
+      "password": "darigul250268",
+      "id": 7
+    },
+    {
+      "email": "bvvssd@mail.ru",
+      "password": "beksultan181299",
+      "id": 8
+    },
+    {
+      "email": "darw@gmail.com",
+      "password": "darigul250268",
+      "id": 9
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "beka181299",
+      "id": 10
+    },
+    {
+      "email": "test@gmail.com",
+      "password": "beka181299",
+      "id": 11
+    }
+  ],
+  "productComments": [
+    {
+      "commentId": "3",
+      "name": "Beksultan",
+      "comments": "salam aleikum",
+      "date": "04.03.2021, 00:27:20",
+      "id": 1
+    },
+    {
+      "commentId": "6",
+      "name": "фыв",
+      "comments": "фыв",
+      "date": "05.03.2021, 07:14:56",
+      "id": 2
+    },
+    {
+      "commentId": "6",
+      "name": "beksultan@gmail.com",
+      "comments": "nice guy",
+      "date": "05.03.2021, 08:28:57",
+      "id": 3
+    },
+    {
+      "commentId": "6",
+      "name": "asdasd",
+      "comments": "sadasdasd",
+      "date": "05.03.2021, 09:10:30",
+      "id": 4
+    },
+    {
+      "commentId": "6",
+      "name": "Ssda",
+      "comments": "blabla",
+      "date": "05.03.2021, 09:43:16",
+      "id": 5
+    }
+  ]
+}
